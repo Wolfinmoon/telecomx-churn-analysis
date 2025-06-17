@@ -90,13 +90,6 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 📬 Contato
-
-📧 SeuNome - seuemail@gmail.com  
-🌐 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuusuario)
-
----
-
 ## 🏁 Conclusão
 
 Este projeto reforça a importância da análise de dados no apoio à tomada de decisões e mostra como identificar clientes com maior risco de cancelamento é essencial para a estratégia de uma empresa.
